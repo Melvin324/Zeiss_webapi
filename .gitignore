@@ -1,0 +1,13 @@
+##
+## Ignore folders
+.vs
+bin
+obj
+target
+
+##
+## Ignore file types
+*.user
+*.zip
+*.lock.json
+packages/
